@@ -18,31 +18,31 @@
 
 ### 💻 Tech Stack
 
-#### 🌐 Frontend
+#### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-#### ⚙️ Backend
+#### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
 </p>
 
-#### 🔧 Version Control
+#### Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-#### 🛠 Tools
+#### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,azure,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=calebskiii" />
   </a>
 </p>
