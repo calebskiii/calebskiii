@@ -10,7 +10,6 @@ A 3rd-year Computer Science student | Locked-In Developer
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/calebskiii)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=calebskiii)  
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
